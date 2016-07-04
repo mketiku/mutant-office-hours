@@ -23,12 +23,12 @@
  padding: 0.9rem; }
 
 .top-bar {
- background: #333; }
+ background: #003; }
  .top-bar ul {
-   background: #333; }
+   background: #003; }
    .top-bar ul li {
-     background: #333; }
+     background: #003; }
      .top-bar ul li a {
-       color: #fff; }
+       color: #ccc; }
        .menu-text {
-         color: #fff; }
+         color: #ccc; }
