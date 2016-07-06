@@ -1,5 +1,5 @@
 # Mutant Office Hours
-Mutant Office Hours is a web application for Faculty members to keep track of mutant appointments and office hour at Xavier's School for Gifted Youngsters.
+Mutant Office Hours is a web application for Faculty members to keep track of mutant appointments and office hour at Xavier's School for Gifted Youngsters. Front end of application.
 
 ### Tech
 Mutant-Office-Hours uses a number of open source projects to work properly:
@@ -37,7 +37,3 @@ $ npm start
  - Rethink Styling
  - Add Code Comments
 =======
-An Angular project using firebase and twilio to manage a waitlist for office hours at mutant school.
-
-Front end of the Mutant Office Hours application.
->>>>>>> dev_michael
